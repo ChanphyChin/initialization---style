@@ -87,9 +87,6 @@ s, i, em {
     text-decoration: none;
 }
 
-.col-red {
-    color: #C81623 !important;/*京东主色调*/
-}
 
 /*公共类*/
 .w {
